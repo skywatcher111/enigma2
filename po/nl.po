@@ -1048,7 +1048,7 @@ msgstr "Auto focus"
 msgid "Auto focus commencing ..."
 msgstr "Auto focus begint... ..."
 
-msgid "Auto language selection"
+msgid "Auto language Selection"
 msgstr "Automatische taalinstellingen"
 
 msgid "Auto scart switching"
@@ -8563,7 +8563,7 @@ msgid "When the content has an aspect ratio of 16:9, choose whether to scale/str
 msgstr "Als het beeld een verhouding heeft van 16:9, kan het beeld worden uitgerekt of geschaald."
 
 msgid "When the content has an aspect ratio of 4:3, choose whether to scale/stretch the picture."
-msgstr "Als het beeld een verhouding heeft van 4;3, kan het beeld worden uitgerekt of geschaald."
+msgstr "Als het beeld een verhouding heeft van 4:3, kan het beeld worden uitgerekt of geschaald."
 
 msgid "When tuned to a service the system will normally scan the transponder for any changes and save them. Only set to 'yes' if you're absolutely sure what you're doing."
 msgstr "Als uw %s %s op een kanaal is afgestemd, wordt normaal gesproken de gehele transponder gescand op veranderingen. Schakel dit alleen uit, als u zeker bent van wat u doet. "
@@ -10264,7 +10264,9 @@ msgid "Setup your Tuner and search for channels"
 msgstr "Hier kun je uw tuners instellen en kanalen zoeken."
 
 msgid "Shows available pluigns. Here you can download and install them"
-msgstr "Hier kun je uw plugins beheren. Nieuwe plugins downloaden en installeren."
+msgstr ""
+"Hier kun je uw plugins beheren. \n"
+"Nieuwe plugins downloaden en installeren."
 
 msgid "Harddisk Setup"
 msgstr "Harddisk instellen"
@@ -10276,7 +10278,8 @@ msgstr "Hier kun je uw interne harde schijf beheren."
 msgid ""
 "Check/Install online updates (you must have a working internet connection)"
 msgstr ""
-"Controleer Op/Installeer updates, (werkende internet verbinding nodig)."
+"Controleer Op/Installeer updates. \n"
+"werkende internet verbinding nodig."
 
 msgid "Flash Online a new image"
 msgstr "Flash Online een Image"
@@ -10346,7 +10349,7 @@ msgid ""
 "Use the Softcam Panel to control your Cam. This let you start/stop/select a "
 "cam"
 msgstr ""
-"Gebruik het Softcam Panel om de gebruikte Softcam te beheren. "
+"Gebruik het Softcam Panel om de gebruikte Softcam te beheren. \n"
 "Een Softcam te Starten/Stoppen/Kiezen."
 
 msgid "Download and install cam"
@@ -10577,7 +10580,9 @@ msgid "Mounts Devices"
 msgstr "Mount opslagmedia"
 
 msgid "Setup your Device mounts (USB, HDD, others...)"
-msgstr "Mounts van opslagmedia instellen (USB, HDD, andere...)."
+msgstr ""
+"Mounts van opslagmedia instellen. \n"
+"HDD, USB, SD, en andere..."
 
 # Menue Netwerk
 msgid "Configure your Network"
@@ -10630,26 +10635,26 @@ msgstr "Netwerkadapter instellen (Samba, FTP, NFS,...)."
 
 # Menue AV Setup
 msgid "Auto Language"
-msgstr "Automatische taalkeuze."
+msgstr "Automatische taalkeuze"
 
 msgid "Select your Language for Audio/Subtitles"
-msgstr "Kies de voorkeurtaal voor audio, ondertitels en EGP."
+msgstr "Kies de voorkeurtaal voor audio, ondertitels en EPG."
 
 msgid "VideoEnhancement"
 msgstr "Videoverbetering"
 
 msgid "VideoEnhancement Setup"
-msgstr "Instellingen voor beeldverbetering."
+msgstr "Instellingen voor beeldverbetering"
 
 # Menue Tuner Setup
 msgid "Setup tuner(s)"
-msgstr "Tuner(s) instellen."
+msgstr "Tuner(s) instellen"
 
 msgid "Setup each tuner for your satellite system"
 msgstr "Hier kun je elke tuner instellen."
 
 msgid "Setup rotor"
-msgstr "Rotor instellen."
+msgstr "Rotor instellen"
 
 msgid "Setup your positioner for your satellite system"
 msgstr "Hier kun je een DiSeqC motor instellen."
@@ -10661,7 +10666,7 @@ msgid "Manual scan for services"
 msgstr "Hier kun je handmatig kanalen zoeken."
 
 msgid "Sat Finder"
-msgstr "Handmatig satelliet opzoeken."
+msgstr "Handmatig satelliet opzoeken"
 
 msgid "Search Sats"
 msgstr "Zoek satellieten"
@@ -10676,14 +10681,14 @@ msgid "Pluginbrowser"
 msgstr "Plugin Beheerder"
 
 msgid "Open the Plugin Browser"
-msgstr "Open de Plugin Beheerder."
+msgstr "Open de Plugin Beheerder"
 
 msgid "Shows Plugins Browser. Here you can setup installed Plugin"
 msgstr ""
 "Toon alle Plugins. Hier kun je elke plugin instellen en gebruiken."
 
 msgid "Download and install Plugins"
-msgstr "Download en installeer Plugins."
+msgstr "Download en installeer Plugins"
 
 msgid "Shows available plugins. Here you can download and install them"
 msgstr ""
@@ -10710,7 +10715,7 @@ msgstr ""
 msgid "Scan for local extensions and install them"
 msgstr ""
 "Zoek locale plugins en installeer deze. \n"
-"(plugins installeren vanop: HDD, USB, ..."  
+"Plugins installeren vanop: HDD, USB, ..."  
 
 # Menue Harddisk
 msgid "Format your Harddisk"
@@ -10744,13 +10749,13 @@ msgid "This option allows you to choose how to display standard defintion video 
 msgstr "Hier kunt u instellen hoe SD-video moet weergegeven worden op je TV."
 
 msgid "This option allows you to choose how to display 720p 24Hz on your TV. (as not all TV's support these resolutions)"
-msgstr "Hier kunt u instellen hoe 720p 24Hz moet weergegeven worden op je TV. (sommige  TVs ondersteunen deze resolutie niet)"
+msgstr "Hier kunt u instellen hoe 720p 24Hz moet weergegeven worden op je TV. (sommige TVs ondersteunen deze resolutie niet)"
 
 msgid "This option allows you to choose how to display 1080p 24Hz on your TV. (as not all TV's support these resolutions)"
-msgstr "Hier kunt u instellen hoe 1080p 24Hz moet weergegeven worden op je TV. (sommige  TVs ondersteunen deze resolutie niet)"
+msgstr "Hier kunt u instellen hoe 1080p 24Hz moet weergegeven worden op je TV. (sommige TVs ondersteunen deze resolutie niet)"
 
 msgid "This option allows you to choose how to display 1080p 25Hz on your TV. (as not all TV's support these resolutions)"
-msgstr "Hier kunt u instellen hoe 1080p 25Hz moet weergegeven worden op je TV. (sommige  TVs ondersteunen deze resolutie niet)"
+msgstr "Hier kunt u instellen hoe 1080p 25Hz moet weergegeven worden op je TV. (sommige TVs ondersteunen deze resolutie niet)"
 
 msgid "This option allows you to choose how to display 1080p 30Hz on your TV. (as not all TV's support these resolutions)"
-msgstr "Hier kunt u instellen hoe 1080p 30Hz moet weergegeven worden op je TV. (sommige  TVs ondersteunen deze resolutie niet)"
+msgstr "Hier kunt u instellen hoe 1080p 30Hz moet weergegeven worden op je TV. (sommige TVs ondersteunen deze resolutie niet)"

@@ -3430,7 +3430,7 @@ msgid "Configure if epg.dat should be saved at all."
 msgstr "Configureren of epg.dat moet worden opgeslagen."
 
 msgid "Configure if service picons will be shown in quickzap."
-msgstr "Configureer of de zendertype iconen worden getoond in de zenderlijst."
+msgstr "Configureer of de zendertype iconen worden getoond in de snelzaplijst."
 
 msgid "Configure if service picons will be shown in the servicelist."
 msgstr "Stel in of de servicetype iconen worden getoond."
@@ -13434,7 +13434,7 @@ msgid "Show picon background colour"
 msgstr "Toon kleur achtergrond voor picons"
 
 msgid "show picons in quickzap"
-msgstr "Toon picons in zenderlijst"
+msgstr "Toon picons in de snelzaplijst"
 
 msgid "show picons in service list"
 msgstr "Toon picons in zenderlijst"
